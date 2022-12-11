@@ -1,0 +1,80 @@
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.exe
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.deps.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.runtimeconfig.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.dll
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\ref\das pro.dll
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.pdb
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.dll
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\ref\das pro.dll
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.pdb
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\das pro\bin\Debug\net5.0\das pro.exe
+D:\das pro\bin\Debug\net5.0\das pro.deps.json
+D:\das pro\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\das pro\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\das pro\bin\Debug\net5.0\das pro.dll
+D:\das pro\bin\Debug\net5.0\ref\das pro.dll
+D:\das pro\bin\Debug\net5.0\das pro.pdb
+D:\das pro\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\das pro\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\das pro\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\das pro\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\das pro\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\das pro\obj\Debug\net5.0\das pro.dll
+D:\das pro\obj\Debug\net5.0\ref\das pro.dll
+D:\das pro\obj\Debug\net5.0\das pro.pdb
+D:\das pro\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\das pro - Copy\bin\Debug\net5.0\das pro.exe
+D:\das pro - Copy\bin\Debug\net5.0\das pro.deps.json
+D:\das pro - Copy\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\das pro - Copy\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\das pro - Copy\bin\Debug\net5.0\das pro.dll
+D:\das pro - Copy\bin\Debug\net5.0\ref\das pro.dll
+D:\das pro - Copy\bin\Debug\net5.0\das pro.pdb
+D:\das pro - Copy\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\das pro - Copy\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\das pro - Copy\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\das pro - Copy\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\das pro - Copy\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\das pro - Copy\obj\Debug\net5.0\das pro.dll
+D:\das pro - Copy\obj\Debug\net5.0\ref\das pro.dll
+D:\das pro - Copy\obj\Debug\net5.0\das pro.pdb
+D:\das pro - Copy\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.dll
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\ref\das pro.dll
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.pdb
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.exe
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.deps.json
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.dll
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\ref\das pro.dll
+D:\Tiket bioskop - Copy\bin\Debug\net5.0\das pro.pdb
+D:\Tiket bioskop - Copy\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\Enkripsi\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\Enkripsi\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enkripsi\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\Enkripsi\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\Enkripsi\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\Enkripsi\obj\Debug\net5.0\das pro.dll
+D:\Enkripsi\obj\Debug\net5.0\ref\das pro.dll
+D:\Enkripsi\obj\Debug\net5.0\das pro.pdb
+D:\Enkripsi\bin\Debug\net5.0\das pro.exe
+D:\Enkripsi\bin\Debug\net5.0\das pro.deps.json
+D:\Enkripsi\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\Enkripsi\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\Enkripsi\bin\Debug\net5.0\das pro.dll
+D:\Enkripsi\bin\Debug\net5.0\ref\das pro.dll
+D:\Enkripsi\bin\Debug\net5.0\das pro.pdb
+D:\Enkripsi\obj\Debug\net5.0\das pro.genruntimeconfig.cache

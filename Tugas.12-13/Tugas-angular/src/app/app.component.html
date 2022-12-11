@@ -1,0 +1,4 @@
+<h1>Selamat datang di Kelas {{Matakuliah}}!</h1>
+<p *ngIf="Matakuliah!= 'Pemprograman Framework'">Mk diganti</p>
+<button (click)="GantiMk()">ganti mk</button>
+<router-outlet></router-outlet>

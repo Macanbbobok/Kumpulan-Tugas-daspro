@@ -1,0 +1,64 @@
+<!--SAID ARRASYID  2207111402-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>To do Vuejs</title>
+    <style>
+        h1{
+            color: blue;
+        }
+        body{
+            background-color: aliceblue;
+        }
+    
+    </style>
+</head>
+<body>
+    <div class="app">
+        <h1>TO DO LIST</h1>
+        
+        <input type="text" v-model="item">
+        <button input type="submit"  v-on:click="Enter">Add</button>
+        <ul>
+            <li v-for ="item in items" v-on:click = "removeItem(item)">{{item.name}}</li>
+        </ul>
+        
+    </div>
+    <script src ="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+<script>
+    
+    new Vue({
+    el:'.app',
+    data:{
+        item:'',
+        items: [],
+
+        
+        
+    },
+    methods: {
+        Enter: function() {
+            var item = {
+                id: Date.now(),
+                name: this.item
+
+            };
+            this.items.push(item);
+            this.item = '';
+        },
+        removeItem : function(item) {
+            var newItems = this.items.filter(function(i){
+                return item.id !== i.id;
+            });
+            this.items = newItems;
+            
+        }
+            
+        }
+    }
+
+    );
+</script>
+</body>
+</html>
